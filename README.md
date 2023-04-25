@@ -1,6 +1,6 @@
 # GraphNN
 
-### What you need to do
+### <ins>What you need to do</ins>
 
 Considering the above mentioned graph, there are few nodes who have are not labeled to have a class (As shown in the image 20% didn't have labels). You will have to predict the branch for the Node IDs present in sample_submission.csv. You will have to make a graph from the nodes and edges list provided in Data, run Traditional ML and Graph Learning techniques to classify their Branch, based on some attributes of the nodes which describe their connectivity between other students.
 General framework of steps to be followed:
@@ -14,9 +14,9 @@ General framework of steps to be followed:
 You are free to experiment with traditional ML using graph features as input, or using diff GNN architectures, etc.
 
 
+
  ```
   pip intall jupyternotebook
   pip intall networkx
   pip intall pytorch
-  pip intall jupyternotebook
  ```
