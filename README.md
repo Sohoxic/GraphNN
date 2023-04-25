@@ -20,4 +20,9 @@ You are free to experiment with traditional ML using graph features as input, or
   pip intall jupyternotebook
   pip intall networkx
   pip intall pytorch
+  pip install torch-geometric
+  pip install -q torch-scatter -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+  pip install -q torch-sparse -f https://data.pyg.org/whl/torch-1.10.0+cu113.html
+  pip install -q git+https://github.com/pyg-team/pytorch_geometric.git
+  pip install --upgrade torch-cluster
  ```
