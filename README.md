@@ -14,6 +14,7 @@ General framework of steps to be followed:
 You are free to experiment with traditional ML using graph features as input, or using diff GNN architectures, etc.
 
 
+<ins>Installation commands if needed</ins>
 
  ```
   pip intall jupyternotebook
