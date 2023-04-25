@@ -12,3 +12,6 @@ General framework of steps to be followed:
 5. Use a GNN (ex: GCN) and train on the graph. Use the train and test masks as needed when defining the accuracy and to predict for the GNNs
 6. The final output required is the prediction value of branch for the test nodes only
 You are free to experiment with traditional ML using graph features as input, or using diff GNN architectures, etc.
+
+
+  pip intall jupyternotebook
