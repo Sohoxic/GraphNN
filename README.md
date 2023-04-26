@@ -48,3 +48,7 @@ These datasets used for node classification and transfer learning are Twitch use
   pip install -q git+https://github.com/pyg-team/pytorch_geometric.git
   pip install --upgrade torch-cluster
  ```
+ 
+ <ins>Repository Handlers</ins>
+ [Arnav Kumar](https://github.com/ArnavKumar7)
+ [Vijith BG](https://github.com/crypto-vbg)
