@@ -11,6 +11,16 @@ These datasets used for node classification and transfer learning are Twitch use
 4. Community detection	
 5. Network visualization
 
+
+#### <ins>Folder meanings:</ins>
+DE: German
+ENGB: United Kingdom English
+ES: Spanish
+FR: French
+PTBR: Portuguese
+RU: Russian
+
+
 ## <ins>Minimum Requirements</ins>
 
 ```
