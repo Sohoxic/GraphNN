@@ -49,6 +49,6 @@ These datasets used for node classification and transfer learning are Twitch use
   pip install --upgrade torch-cluster
  ```
  
- <ins>Repository Handlers</ins>
+ <ins>Repository Handlers</ins><br />
  [Arnav Kumar](https://github.com/ArnavKumar7)<br />
  [Vijith BG](https://github.com/crypto-vbg)
