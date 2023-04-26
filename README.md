@@ -50,5 +50,5 @@ These datasets used for node classification and transfer learning are Twitch use
  ```
  
  <ins>Repository Handlers</ins>
- [Arnav Kumar](https://github.com/ArnavKumar7)
+ [Arnav Kumar](https://github.com/ArnavKumar7)<br />
  [Vijith BG](https://github.com/crypto-vbg)
