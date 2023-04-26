@@ -11,6 +11,19 @@ These datasets used for node classification and transfer learning are Twitch use
 4. Community detection	
 5. Network visualization
 
+##<ins>Minimum Requirements</ins>
+
+```
+ networkx          2.4
+ tqdm              4.28.1
+ numpy             1.15.4
+ pandas            0.23.4
+ texttable         1.5.0
+ scipy             1.1.0
+ argparse          1.1.0
+ gensim            3.6.0
+```
+
 ## <ins>Installation commands if needed</ins>
 
  ```
