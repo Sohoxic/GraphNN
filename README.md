@@ -8,7 +8,7 @@ These datasets used for node classification and transfer learning are Twitch use
 1. Transfer learning
 2. Binary node classification
 3. Link prediction	
-4 .Community detection	
+4. Community detection	
 5. Network visualization
 
 ## <ins>Installation commands if needed</ins>
