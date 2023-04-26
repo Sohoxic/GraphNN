@@ -11,7 +11,7 @@ These datasets used for node classification and transfer learning are Twitch use
 4. Community detection	
 5. Network visualization
 
-##<ins>Minimum Requirements</ins>
+## <ins>Minimum Requirements</ins>
 
 ```
  networkx          2.4
