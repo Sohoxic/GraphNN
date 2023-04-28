@@ -2,25 +2,14 @@
 
 ## <ins>Dataset Info</ins>
 
-These datasets used for node classification and transfer learning are Twitch user-user networks of gamers who stream in a certain language. Nodes are the users themselves and the links are mutual friendships between them. Vertex features are extracted based on the games played and liked, location and streaming habits. Datasets share the same set of node features, this makes transfer learning across networks possible. These social networks were collected in May 2018. The supervised task related to these networks is binary node classification - one has to predict whether a streamer uses explicit language.
+This webgraph is a page-page graph of verified Facebook sites. Nodes represent official Facebook pages while the links are mutual likes between sites. Node features are extracted from the site descriptions that the page owners created to summarize the purpose of the site. This graph was collected through the Facebook Graph API in November 2017 and restricted to pages from 4 categories which are defined by Facebook. These categories are: politicians, governmental organizations, television shows and companies. The task related to this dataset is multi-class node classification for the 4 site categories.
 
 #### Complete as many task as possible
-1. Transfer learning
-2. Binary node classification
-3. Link prediction	
-4. Community detection	
-5. Network visualization
+1. Multi-class node classification	
+2. Link prediction	
+3. Community detection	
+4. Network visualization
 
-
-#### <ins>Folder meanings:</ins>
-| Folder Code | Language             |
-|------|---------------------|
-| DE   | German              |
-| ENGB | United Kingdom English |
-| ES   | Spanish             |
-| FR   | French              |
-| PTBR | Portuguese          |
-| RU   | Russian             |
 
 
 ## <ins>Minimum Requirements</ins>
