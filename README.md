@@ -13,9 +13,13 @@ PART A:
 5. Generate inferences from all the above attributes.
 
 
-PART B:
-To be done yet
+PART B:</br>
+Create a Graph neural network and complete the following:</br>
+1. Link prediction
+2. Node classification
 
+Use 70-30 train test split, take random seed = 42
+#### Metrics Accuracy to be generated as it will be graded based on the metrics itself.
 
 
 ## <ins>Minimum Requirements</ins>
